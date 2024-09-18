@@ -1,0 +1,35 @@
+{
+    "articles": [
+      {
+        "id": 1,
+        "title": "The Rise of Esports: A New Era in Competitive Gaming",
+        "description": "Esports has rapidly grown into a global phenomenon, captivating millions of fans worldwide. Discover how competitive gaming is reshaping the sports landscape and what it means for the future of entertainment.",
+        "img": "/assets/img/blog1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Top 5 Soccer Players to Watch in 2024",
+        "description": "As we head into a new year, soccer fans are eager to see which players will dominate the field. From rising stars to seasoned veterans, these are the top 5 soccer players you need to keep an eye on in 2024.",
+        "img": "/assets/img/blog2.jpg"
+      },
+      {
+        "id": 3,
+        "title": "How Video Games are Improving Athletic Performance",
+        "description": "Video games are not just for entertainment anymore. Learn how athletes are using gaming technology to improve their physical and mental performance, and how this crossover is benefiting both industries.",
+        "img": "/assets/img/blog3.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Breaking Down the Latest NBA Trades",
+        "description": "The NBA offseason has seen some big moves, with teams shaking up their rosters. Get a detailed analysis of the latest trades and what they mean for the upcoming season.",
+        "img": "/assets/img/blog4.jpg"
+      },
+      {
+        "id": 5,
+        "title": "The Evolution of Gaming Consoles: From Atari to Next-Gen",
+        "description": "Take a trip down memory lane as we explore the history of gaming consoles, from the early days of Atari to the cutting-edge technology of the next generation. Learn how each era has influenced the gaming industry as we know it today.",
+        "img": "/assets/img/blog5.jpg"
+      }
+    ]
+  }
+  
